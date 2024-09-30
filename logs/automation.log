@@ -26,3 +26,8 @@
 12:12:18.823[main] INFO  testCases.TC01_LoginTest - **** Clicked My Account Link ****
 12:12:24.464[main] INFO  testCases.TC01_LoginTest - **** Clicked Login Link ****
 12:12:32.293[main] INFO  testCases.TC01_LoginTest - **** Test Finished ****
+19:44:55.995[main] INFO  testCases.TC01_LoginTest - **** Starting Login Test ****
+19:44:58.441[main] INFO  testCases.TC01_LoginTest - **** Clicked Checkout Link ****
+19:45:05.833[main] INFO  testCases.TC01_LoginTest - **** Clicked My Account Link ****
+19:45:11.478[main] INFO  testCases.TC01_LoginTest - **** Clicked Login Link ****
+19:45:19.232[main] INFO  testCases.TC01_LoginTest - **** Test Finished ****
